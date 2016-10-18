@@ -6,4 +6,4 @@ Pada [1] penerapan teori graf isomorpis digunakan untuk mendapatkan fitur baru y
 
 ### Refrensi
 
-[1] D. Kisku, P. Gupta and J. Sing, "Feature Level Fusion of Face and Palmprint Biometrics by Isomorphic Graph-Based Improved K-Medoids Partitioning", in Advances in Computer Science and Information Technology, 1st ed., T. Kim and H. Adeli, Ed. Springer Berlin Heidelberg, 2010, pp. 70-81.
+[1] [D. Kisku, P. Gupta and J. Sing, "Feature Level Fusion of Face and Palmprint Biometrics by Isomorphic Graph-Based Improved K-Medoids Partitioning", in Advances in Computer Science and Information Technology, 1st ed., T. Kim and H. Adeli, Ed. Springer Berlin Heidelberg, 2010, pp. 70-81.](https://drive.google.com/open?id=0B_30ewZCzNUMdmNrM1Y3NXoyeDg)
