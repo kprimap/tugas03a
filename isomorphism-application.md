@@ -3,6 +3,11 @@
 ### 1. Bidang Biometrik (Ekstraksi Fitur Pada Wajah dan Telapak Tangan)
 Pada [1] penerapan teori graf isomorpis digunakan untuk mendapatkan fitur baru yang didapatkan dari 2 graf yang isomorpis. Penulis [1] menyebut fitur tersebut dengan istilah *fusion of keypoints*. Tahap pertama dilakukan ekstrasi fitur pada wajah dan telapat tangan menggunakan metode *Scale Invariant Feature Transform* (SIFT) untuk mendapatkan titik-titik fitur (*keypoints*). Kemudaian dari titik-titik tersebut dilakukan pengelompokan (*clustering*). Dari titik-titik fitur yang didapatkan dari proses ekstraksi fitur dan *clustering*, akan dibuat grafnya. Pada setiap graf dari fitur wajah dan telapak tangan akan dicari graf yang isomorpis. Untuk mendapatkan *fusion of keypoint* dilakukan dengan 2 metode *fusion* yaitu *sum rule* dan *concatenation rule*.
 
+### 2. Proses secara umum
+1) Akuisisi data gambar wajah dan telapak tangan
+2) Menemukan keypoints menggunakan SIFT
+3) Eliminasi keypoint-keypoint yang terlalu dekat menggunakan k-medoid cluster
+4) Hasilkan isomorphic graph  (3.2,3.3)
 
 ### Refrensi
 
